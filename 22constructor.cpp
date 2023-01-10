@@ -40,5 +40,6 @@ Book book3;
 
 cout <<book1.title <<endl;
 cout <<book3.title;
+return 0;
 
 };

@@ -25,4 +25,5 @@ book2.pages=600;
 
 
 cout <<book1.title;
+return 0;
 };
